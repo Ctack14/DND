@@ -1,0 +1,2 @@
+class CityRapportTracker:
+    pass

@@ -1,0 +1,1 @@
+//default city reputations etc.

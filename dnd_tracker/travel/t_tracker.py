@@ -1,0 +1,2 @@
+class TravelTracker:
+    pass
