@@ -1,0 +1,62 @@
+[
+  {
+    "roll_range": "01",
+    "item": "Amulet of Proof against Detection and Location",
+    "cost": null,
+    "description": null
+  },
+  {
+    "roll_range": "02",
+    "item": "Baba Yaga’s Dancing Broom",
+    "cost": null,
+    "description": null
+  },
+  {
+    "roll_range": "03–05",
+    "item": "Bag of Holding",
+    "cost": null,
+    "description": null
+  },
+  {
+    "roll_range": "06–07",
+    "item": "Bag of Tricks",
+    "cost": null,
+    "description": null
+  },
+  {
+    "roll_range": "08",
+    "item": "Brooch of Shielding",
+    "cost": null,
+    "description": null
+  },
+  {
+    "roll_range": "09",
+    "item": "Broom of Flying",
+    "cost": null,
+    "description": null
+  },
+  {
+    "roll_range": "10",
+    "item": "Cap of Water Breathing",
+    "cost": null,
+    "description": null
+  },
+  {
+    "roll_range": "11",
+    "item": "Circlet of Blasting",
+    "cost": null,
+    "description": null
+  },
+  {
+    "roll_range": "12–13",
+    "item": "Cloak of Protection",
+    "cost": null,
+    "description": null
+  },
+  {
+    "roll_range": "14",
+    "item": "Cloak of the Manta Ray",
+    "cost": null,
+    "description": null
+  }
+]
